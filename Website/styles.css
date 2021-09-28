@@ -1,7 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Gemunu+Libre:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gemunu+Libre:wght@200&family=Yaldevi:wght@200;400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gemunu+Libre:wght@200&family=Indie+Flower&family=Yaldevi:wght@200;400&display=swap');
 body{
 
     background-color: khaki;
 }.TD{
 
     color: red;
+}h1{
+
+    font-family: 'Gemunu Libre', sans-serif;
+} h2{
+
+    font-family: 'Gemunu Libre', sans-serif;
+}.fonts{
+
+    font-family: 'Gemunu Libre', sans-serif;
+    font-family: 'Yaldevi', sans-serif;
+}.anotherfont{
+
+    font-family: 'Gemunu Libre', sans-serif;
+    font-family: 'Yaldevi', sans-serif;
+}.linksfont{
+    font-family: 'Gemunu Libre', sans-serif;
+font-family: 'Indie Flower', cursive;
+font-family: 'Yaldevi', sans-serif;
+
 }
